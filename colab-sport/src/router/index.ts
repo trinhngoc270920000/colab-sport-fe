@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
 import routerHomepage from './routerHomepage/routerHomepage'
 import routerNotFound from './routerNotFound/routerNotFound'
 
